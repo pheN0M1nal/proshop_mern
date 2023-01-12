@@ -1,7 +1,7 @@
 # TechPoint eCommerce Store
 
 ## Project is Live, checkout here
-https://techpoint-commerce-store.herokuapp.com/
+https://techpoint.onrender.com/
 
 for checking admin panel functionality, you may put
 email: admin@example.com
